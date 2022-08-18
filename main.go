@@ -1,1 +1,3 @@
-func mai() {}
+package main
+
+func main() {}
