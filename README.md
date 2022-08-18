@@ -1,5 +1,5 @@
-# Git and GitHub Course
+## Git and GitHub Course
 
-## This repo was used to learn git from Amigoscode
+### This repo was used to learn git from Amigoscode
 
-### Learning how to use git wisely
+#### Learning how to use git wisely
